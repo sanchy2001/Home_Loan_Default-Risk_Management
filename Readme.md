@@ -98,5 +98,3 @@ imbalanced-learn matplotlib seaborn
 
 ## 👤 Author
 **Sanchit Kumar Mahto**
-- B.Tech CSE — SSIPMT Raipur (2023)
-- Data Scientist | AI/ML Engineer
